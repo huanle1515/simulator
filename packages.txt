@@ -1,1 +1,2 @@
+libegl1
 libgles2
